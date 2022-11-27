@@ -2,7 +2,7 @@
 - 👀 I’m interested in financial trading using systems developed in Python.
 - 🌱 I’m currently learning Python. I am a complete novice. I learned Commodore BASIC at school, but that was in the very early 80s!
 - 💞️ I’m looking to collaborate on anything to do with trading and automated systems.
-- 📫 How to reach me ...
+- 📫 How to reach me ... Here
 
 <!---
 markgahagan1/markgahagan1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
