@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @markgahagan1
 - 👀 I’m interested in financial trading using systems developed in Python.
-- 🌱 I’m currently learning Python. I am a complete novice. I learned Commodore BASIC at school, but that was in the very early 80s! (update: Also now trying out Go and Java)
+- 👀 I also like tinkering in Linux, trying out various distributions, and manage my own homelab network using Mikrotik devices.
+- 👀 I’m currently learning Python. I am a complete novice. I learned Commodore BASIC at school, but that was in the very early 80s! (update: Also now trying out Go and Java)
 - 💞️ I’m looking to collaborate on anything to do with trading and automated systems.
 - 📫 How to reach me ... Here
 
